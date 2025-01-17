@@ -1,0 +1,158 @@
+.home{
+    margin-top: 50px;
+}
+.start{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(207, 241, 230);
+    margin: 20px;
+    border-radius: 30px;
+}
+.ban{
+    height: 300px;
+    width: 50%;
+    border-radius: 40px;
+}
+.geter{
+    margin: 60px;
+
+}
+
+.faf{
+    color: rgb(4, 4, 71);
+    font-weight: 700;
+    font-size: 35px;
+}
+.art{
+    color: rgb(141, 138, 138);
+}
+.est{
+    color: green;
+}
+.inp{
+    margin-top: 50px;
+    width: 350px;
+}
+.med{
+    border-radius: 40px;
+}
+.addon{
+    width: 100px;
+    padding: 14px;
+    background-color: green;
+    color: aliceblue;
+    border-radius: 40px;
+}
+
+
+/* second division price tag */
+
+.sub{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+    margin-top: 30px;
+}
+.ico{
+    margin-top: 10px;
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+}
+.ico:hover{
+    transform: scale(1.1);
+
+}
+.price{
+    display: flex;
+    align-items: center;
+    background-color: rgb(241, 241, 241);
+    width: 250px;
+    border-radius: 10px;
+    height: 80px;
+}
+.price:hover{
+    transform: translateX(2px);
+}
+.rd{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.rd-1{
+    font-size: 17px;
+    font-weight: 700;
+}
+.rd-2{
+    font-size: 13px;
+    color: rgb(122, 121, 121);
+}
+
+/* footer division  */
+.some{
+    width: 260px;
+    /* border: 1px solid; */
+}
+.go{
+    height: 100px;
+    width: 180px;
+}
+.gro{
+    font-size: 15px;
+}
+.cation{
+    color: green;
+    font-size: 16px;
+}
+.ress{
+    font-size: 14px;
+    color: black;
+    font-weight: 700;
+}
+.phones{
+    font-size: 14px;
+}
+
+/* table css style  */
+
+.foot{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.about{
+    font-size: 13px;
+    margin-top: 20px;
+}
+.about p:hover{
+    color: green;
+    transform: translateX(2px);
+}
+
+.pany{
+    margin-top: 30px;
+    margin-right: 50px;
+}
+
+.goog{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.goog-1{
+    height: 50px;
+    width: 150px;
+    padding-right: 20px;   
+}
+.stall{
+    margin-bottom: 20px;
+}
+.or{
+    margin-top: 10px;
+}
+.cur{
+    margin-top: 20px;
+}

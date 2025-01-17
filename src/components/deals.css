@@ -1,0 +1,263 @@
+.dealed{
+    font-size: 20px;
+    font-weight: 800;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.top a{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 30px;
+    color: black;
+    text-decoration: none;
+}
+.sel{
+    margin-left: 70px;
+}
+.sel:hover{
+    transform: scale(1.1);
+    transition: transform 0.6s ease;
+}
+
+.rated:hover{
+    transform: scale(1.1);
+    transition: transform 0.6s ease;
+
+}
+
+.duct:hover{
+    transform: scale(1.1);
+    transition: transform 0.6s ease;
+}
+
+
+
+/* second division pages */
+
+.houl{
+    margin-top: 40px;
+}
+.natural{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.italian-1{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+}
+.italian-1:hover{
+    transform: scale(1.1);
+    transition: transform 0.6s ease;
+}
+.prod-1{
+    margin-left: 20px;
+    height: 90px;
+    width: 90px;
+}
+
+
+.chick:hover{
+    color: green;
+    
+}
+.star{
+    color: rgb(214, 214, 14);
+}
+
+.a4{
+    color: lightslategray;
+}
+.a7{
+    font-size: 13px;
+    font-weight: 800;
+    color: green;
+}
+
+
+.italian-2:hover{
+    transform: scale(1.1);
+    transition: transform 0.6s ease;
+}
+
+.italian-3:hover{
+    transform: scale(1.1);
+    transition: transform 0.6s ease;
+}
+
+.italian-2-1:hover{
+    transform: scale(1.1);
+    transition: transform 0.6s ease;
+}
+
+.italian-3-1:hover{
+    transform: scale(1.1);
+    transition: transform 0.6s ease;
+}
+
+.italian-2-2:hover{
+    transform: scale(1.1);
+    transition: transform 0.6s ease;
+}
+
+.italian-3-2:hover{
+    transform: scale(1.1);
+    transition: transform 0.6s ease;
+}
+
+.chick{
+    font-size: 11px;
+    font-weight: 500;
+}
+
+.italian-2{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+.ital{
+    height: 70px;
+}
+.italian-3{
+    display: flex;
+    align-items: center;
+}
+.italian-2-1{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+.italian-2-2{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+.italian-3-1{
+    display: flex;
+    align-items: center;
+}
+.italian-3-2{
+    display: flex;
+    align-items: center;
+}
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.duct{
+    margin-left: 30px;
+}
+.rated{
+    margin-right: 100px;
+
+}
+/* Media query */
+
+@media only screen and (max-width: 600px) {
+    .natural{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        gap: 20px;
+    }
+    .italian-1{
+        margin-left: 40px;
+    }
+    .italian-2{
+        margin-left: 40px;
+    }
+    .italian-2-1{
+        margin-left: 40px;
+    }
+    .italian-2-2{
+        margin-left: 40px;
+    }
+    .italian-3{
+        display: none;
+    }
+    .italian-3-1{
+        display: none;
+    }
+    .italian-3-2{
+        display: none;
+    }
+    .top a{
+        font-size: 12px;
+    }
+    .sel{
+        margin-left: 30px;
+        margin-right: 80px;
+    }
+    .duct{
+        margin-right: 110px;
+    }
+}
+
+
+@media only screen and (min-width: 1000px) {
+    .top{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-left: 20px;
+        margin-right: 25px;
+    }
+    .duct{
+        margin-left: 10px;
+    }
+    .rated{
+        margin-right: 150px;
+    }
+    .italian-1{
+        display: flex;
+        align-items: center;
+    }
+    .chick{
+        font-size: 13px;
+        font-weight: 500;
+    }
+    .italian-2{
+        display: flex;
+        align-items: center;
+        margin-right: 100px;
+        margin-left: 30px;
+    }
+    .ital{
+        height: 80px;
+        margin-left: 20px;
+    }
+    .italian-3{
+        display: flex;
+        align-items: center;
+        margin-right: 20px;
+        margin-left: 100px;
+    }
+    .italian-2-1{
+        display: flex;
+        align-items: center;
+        margin-right: 100px;
+        margin-left: 30px;
+    }
+    .italian-2-2{
+        display: flex;
+        align-items: center;
+        /* justify-content: space-between; */
+        margin-right: 100px;
+        margin-left: 30px;
+    }
+    .italian-3-1{
+        display: flex;
+        align-items: center;
+        /* justify-content: space-between; */
+        margin-right: 20px;
+        margin-left: 100px;
+    }
+    .italian-3-2{
+        display: flex;
+        align-items: center;
+        /* justify-content: space-between; */
+        margin-right: 20px;
+        margin-left: 100px;
+    }
+}

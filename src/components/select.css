@@ -1,0 +1,574 @@
+.vi {
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 10px;
+
+}
+
+
+.ol-1 {
+    background-color: rgb(243, 243, 215);
+    border-radius: 10px;
+}
+
+.oll1 {
+    overflow: hidden;
+}
+
+.i-1:hover {
+    transform: scale(1.1);
+    transition: transfrom 0.6s ease;
+}
+
+.ol-1:hover {
+
+    border: 1px solid rgb(171, 243, 171);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    transition: box-shadow 0.6s ease-in;
+}
+
+.ol-2 {
+    background-color: rgb(199, 232, 243);
+    border-radius: 10px;
+}
+
+.oll2 {
+    overflow: hidden;
+}
+
+.i-1:hover {
+    transform: scale(1.1);
+    transition: transfrom 0.6s ease;
+}
+
+.ol-2:hover {
+    border: 1px solid rgb(171, 243, 171);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    transition: box-shadow 0.6s ease-in;
+}
+
+.ol-3 {
+    background-color: rgb(248, 155, 155);
+    border-radius: 10px;
+}
+
+.oll3 {
+    overflow: hidden;
+}
+
+.i-1:hover {
+    transform: scale(1.1);
+    transition: transfrom 0.6s ease;
+}
+
+.ol-3:hover {
+    border: 1px solid rgb(171, 243, 171);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    transition: box-shadow 0.6s ease-in;
+}
+
+.ol-4 {
+    background-color: rgb(245, 244, 244);
+    border-radius: 10px;
+}
+
+.oll4 {
+    overflow: hidden;
+}
+
+.i-1:hover {
+    transform: scale(1.1);
+    transition: transfrom 0.6s ease;
+}
+
+.ol-4:hover {
+    border: 1px solid rgb(171, 243, 171);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    transition: box-shadow 0.6s ease-in;
+}
+
+.ol-5 {
+    background-color: rgb(215, 247, 215);
+    border-radius: 10px;
+}
+
+.oll5 {
+    overflow: hidden;
+}
+
+.i-1:hover {
+    transform: scale(1.1);
+    transition: transfrom 0.6s ease;
+}
+
+.ol-5:hover {
+    border: 1px solid rgb(171, 243, 171);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    transition: box-shadow 0.6s ease-in;
+}
+
+.ol-6 {
+    background-color: rgb(245, 197, 204);
+    border-radius: 10px;
+}
+
+.oll6 {
+    overflow: hidden;
+}
+
+.i-1:hover {
+    transform: scale(1.1);
+    transition: transfrom 0.6s ease;
+}
+
+.ol-6:hover {
+    border: 1px solid rgb(171, 243, 171);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    transition: box-shadow 0.6s ease-in;
+}
+
+.ol-7 {
+    background-color: rgb(248, 199, 179);
+    border-radius: 10px;
+}
+
+.oll7 {
+    overflow: hidden;
+}
+
+.i-1:hover {
+    transform: scale(1.1);
+    transition: transfrom 0.6s ease;
+}
+
+.ol-7:hover {
+    border: 1px solid rgb(171, 243, 171);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    transition: box-shadow 0.6s ease-in;
+}
+
+.ol-8 {
+    background-color: rgb(165, 247, 242);
+    border-radius: 10px;
+}
+
+.oll8 {
+    overflow: hidden;
+}
+
+.i-1:hover {
+    transform: scale(1.1);
+    transition: transfrom 0.6s ease;
+}
+
+.ol-8:hover {
+    border: 1px solid rgb(171, 243, 171);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    transition: box-shadow 0.6s ease-in;
+}
+
+.ol-9 {
+    background-color: rgb(199, 233, 255);
+    border-radius: 10px;
+}
+
+.oll9 {
+    overflow: hidden;
+}
+
+.i-1:hover {
+    transform: scale(1.1);
+    transition: transfrom 0.6s ease;
+}
+
+.ol-9:hover {
+    border: 1px solid rgb(171, 243, 171);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    transition: box-shadow 0.6s ease-in;
+}
+
+.ol-10 {
+    background-color: rgb(174, 186, 199);
+    border-radius: 10px;
+}
+
+.oll10 {
+    overflow: hidden;
+}
+
+.i-1:hover {
+    transform: scale(1.1);
+    transition: transfrom 0.6s ease;
+}
+
+.ol-10:hover {
+    border: 1px solid rgb(171, 243, 171);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    transition: box-shadow 0.6s ease-in;
+}
+
+.i-1 {
+    height: 100px;
+    width: 100px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.ol-1 h5 {
+    font-size: 15px;
+    text-align: center;
+    color: rgba(7, 7, 7, 0.973);
+}
+
+.ol-1 p {
+    font-size: 12px;
+    text-align: center;
+    color: rgb(58, 56, 56);
+}
+
+.ol-2 h5 {
+    font-size: 15px;
+    text-align: center;
+    color: rgba(7, 7, 7, 0.973);
+}
+
+.ol-2 p {
+    font-size: 12px;
+    text-align: center;
+    color: rgb(58, 56, 56);
+}
+
+.ol-3 h5 {
+    font-size: 15px;
+    text-align: center;
+    color: rgba(7, 7, 7, 0.973);
+}
+
+.ol-3 p {
+    font-size: 12px;
+    text-align: center;
+    color: rgb(58, 56, 56);
+}
+
+.ol-4 h5 {
+    font-size: 15px;
+    text-align: center;
+    color: rgba(7, 7, 7, 0.973);
+}
+
+.ol-4 p {
+    font-size: 12px;
+    text-align: center;
+    color: rgb(58, 56, 56);
+}
+
+.ol-5 h5 {
+    font-size: 15px;
+    text-align: center;
+    color: rgba(7, 7, 7, 0.973);
+}
+
+.ol-5 p {
+    font-size: 12px;
+    text-align: center;
+    color: rgb(58, 56, 56);
+}
+
+.ol-6 h5 {
+    font-size: 15px;
+    text-align: center;
+    color: rgba(7, 7, 7, 0.973);
+}
+
+.ol-6 p {
+    font-size: 12px;
+    text-align: center;
+    color: rgb(58, 56, 56);
+}
+
+.ol-7 h5 {
+    font-size: 15px;
+    text-align: center;
+    color: rgba(7, 7, 7, 0.973);
+}
+
+.ol-7 p {
+    font-size: 12px;
+    text-align: center;
+    color: rgb(58, 56, 56);
+}
+
+.ol-8 h5 {
+    font-size: 15px;
+    text-align: center;
+    color: rgba(7, 7, 7, 0.973);
+}
+
+.ol-8 p {
+    font-size: 12px;
+    text-align: center;
+    color: rgb(58, 56, 56);
+}
+
+.ol-9 h5 {
+    font-size: 15px;
+    text-align: center;
+    color: rgba(7, 7, 7, 0.973);
+}
+
+.ol-9 p {
+    font-size: 12px;
+    text-align: center;
+    color: rgb(58, 56, 56);
+}
+
+.ol-10 h5 {
+    font-size: 15px;
+    text-align: center;
+    color: rgba(7, 7, 7, 0.973);
+}
+
+.ol-10 p {
+    font-size: 12px;
+    text-align: center;
+    color: rgb(58, 56, 56);
+}
+
+.my-dropdown-toggle::after {
+    content: none;
+}
+
+.ki {
+    display: none;
+}
+
+/* .variant{
+    display: block;
+} */
+
+
+/*     second Division make it your easy */
+
+.con {
+    margin-top: 50px;
+    margin-left: 10px;
+    overflow: hidden;
+}
+.ow{
+    overflow: hidden;
+}
+
+.ba-1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+
+
+}
+.ba-1:hover{
+    transform: translateX(2px);
+}
+.ba-1 {
+    overflow: hidden;
+}
+
+.bad-1 {
+    position: relative;
+    height: 250px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+.bad-1:hover {
+    border: 1px solid rgb(238, 238, 159);
+    transition: box-shadow 0.6s ease-in;
+}
+
+.ver-1 {
+    position: absolute;
+    font-size: 25px;
+    margin-bottom: 100px;
+    margin-left: 20px;
+}
+
+.ver-1:hover {
+    color: rgb(18, 5, 48);
+}
+
+.op-1 {
+    color: white;
+    background-color: rgb(77, 177, 77);
+    border: 1px solid;
+    height: 30px;
+    position: absolute;
+    margin-top: 100px;
+    border-radius: 10px;
+    margin-left: 30px;
+    font-size: 13px;
+}
+
+.op-1:hover {
+    background-color: rgb(112, 224, 112);
+}
+
+.ba-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.ba-2:hover{
+    transform: translateX(2px);
+}
+.ba-2 {
+    overflow: hidden;
+}
+
+.bad-2 {
+    position: relative;
+    height: 250px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+.bad-2:hover {
+    border: 1px solid lightpink;
+    transition: box-shadow 0.6s ease-in;
+}
+
+.ver-2 {
+    position: absolute;
+    font-size: 25px;
+    margin-bottom: 100px;
+    margin-left: 20px;
+}
+
+.ver-2:hover {
+    color: rgb(18, 5, 48);
+}
+
+.op-2 {
+    color: white;
+    background-color: rgb(77, 177, 77);
+    border: 1px solid;
+    height: 30px;
+    position: absolute;
+    margin-top: 100px;
+    border-radius: 10px;
+    margin-left: 30px;
+    font-size: 13px;
+}
+
+.op-2:hover {
+    background-color: rgb(112, 224, 112);
+}
+
+.ba-3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.ba-3:hover{
+    transform: translateX(2px);
+}
+.ba-3 {
+    overflow: hidden;
+}
+
+.bad-3 {
+    position: relative;
+    height: 250px;
+    width: 410px;
+    border-radius: 20px;
+}
+
+.bad-3:hover {
+    border: 1px solid lightblue;
+    transition: box-shadow 0.6s ease-in;
+}
+
+.ver-3 {
+    position: absolute;
+    font-size: 25px;
+    margin-bottom: 100px;
+    margin-left: 20px;
+}
+
+.ver-3:hover {
+    color: rgb(18, 5, 48);
+}
+
+.op-3 {
+    color: white;
+    background-color: rgb(77, 177, 77);
+    border: 1px solid;
+    height: 30px;
+    position: absolute;
+    margin-top: 100px;
+    border-radius: 10px;
+    margin-left: 30px;
+    font-size: 13px;
+}
+
+.op-3:hover {
+    background-color: rgb(112, 224, 112);
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
+
+/*     second Division make it your easy */
+
+
+/* media query */
+@media only screen and (max-width: 600px) {
+
+    .vi {
+        display: none;
+    }
+
+    .ki {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .i-1 {
+        padding-right: 20px;
+    }
+
+    .ba-1 {
+        margin-left: 20px;
+    }
+
+    .ba-2 {
+        margin-left: 20px;
+    }
+
+    .ba-3 {
+        margin-left: 20px;
+    }
+
+    .variant {
+        display: none;
+    }
+}
+
+@media only screen and(min-width: 1000px) {
+    
+}
