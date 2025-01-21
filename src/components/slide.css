@@ -71,7 +71,7 @@
 
       /* mobile screen */
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 477px) {
     .ab{
         display: block;
         margin-right: 20px;
@@ -108,7 +108,7 @@
 
       /* laptop screen */
 
-@media only screen and (min-width: 1000px){
+@media only screen and (min-width: 799px){
     .im-1{
         height: 97%;
         width: 97%;

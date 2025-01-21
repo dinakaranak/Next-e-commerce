@@ -155,7 +155,7 @@
 }
 /* Media query */
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 477px) {
     .natural{
         display: grid;
         grid-template-columns: repeat(1,1fr);
@@ -195,7 +195,7 @@
 }
 
 
-@media only screen and (min-width: 1000px) {
+@media only screen and (min-width: 799px) {
     .top{
         display: flex;
         align-items: center;
